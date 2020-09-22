@@ -1,4 +1,6 @@
 # WD-CaseStudy
+Assignment 1
+
 
 1. My website is going to be a personal website. It's purpose is to keep track of my girl scout stuff. The targeted audience is girls around my age that are interested in or participating in Girl Scouts, and my Girl Scout Troop. My website name will be 'My Troop Calendar'.
 
@@ -11,3 +13,12 @@
 5. My website URL would be 'GSTroopCalendar.com'. It explains what my website is about, and is easy to remember.
 
 -Kamilah Lamb
+
+Assignment 2
+
+
+A. I can add a date to tell people when it was last updated, I can update constantly so people know it has recent content.
+
+B. The connectivity tools I can use include Facebook, and Instagram.
+
+C. 
