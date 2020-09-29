@@ -2,7 +2,7 @@
 Assignment 1
 
 
-1. My website is going to be a personal website. It's purpose is to keep track of my girl scout stuff. The targeted audience is girls around my age that are interested in or participating in Girl Scouts, and my Girl Scout Troop. My website name will be 'My Troop Calendar'.
+1. My website is going to be a personal website called 'My Troop Calendar'. It's purpose is to keep track of my girl scout troop's information. This includes the badges we have already completed, the badges we are working on at the monent and what we need to do or have already done to complete them, and the badges we want to do in the future. It will also keep track of our troop cookie selling data, as well as any activities that are coming up, and other miscellaneous informtaion we need. The targeted audience is girls around the ages of 13-18 years old that are interested in or participating in Girl Scouts, and young adults or adults that are troopleaders, volunteers, or have a child interested in or participating in girl scouts.
 
 2. This website will help me keep track of wich badges we are on, cookie sale rates, and other activities/information we need to keep track of.
 
